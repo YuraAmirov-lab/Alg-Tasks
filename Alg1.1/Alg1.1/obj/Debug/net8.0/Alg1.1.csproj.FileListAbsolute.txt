@@ -1,0 +1,14 @@
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\bin\Debug\net8.0\Alg1.1.exe
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\bin\Debug\net8.0\Alg1.1.deps.json
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\bin\Debug\net8.0\Alg1.1.runtimeconfig.json
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\bin\Debug\net8.0\Alg1.1.dll
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\bin\Debug\net8.0\Alg1.1.pdb
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.dll
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\refint\Alg1.1.dll
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.pdb
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\Alg1.1.genruntimeconfig.cache
+C:\Users\Yura\source\repos\Alg1.1\Alg1.1\obj\Debug\net8.0\ref\Alg1.1.dll
